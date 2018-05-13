@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.xlking.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,5 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:qfwc258/qfwc258.github.io.git
+  repo: 
+    github: git@github.com:qfwc258/blog.git
+    coding: https://git.coding.net/qfwc258/qfwc258.coding.me.git
   branch: master
