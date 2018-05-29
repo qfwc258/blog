@@ -78,8 +78,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type: 
   repo: 
-    github: git@github.com:qfwc258/blog.git
-    coding: https://git.coding.net/qfwc258/qfwc258.coding.me.git
-  branch: master
+    # github: git@github.com:qfwc258/blog.git
+    # coding: https://git.coding.net/qfwc258/qfwc258.coding.me.git
+  # branch: master
