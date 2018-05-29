@@ -1,1 +1,2 @@
-
+$ echo "/public" >> .gitignore
+$ echo "/node_modules" >> .gitignore
