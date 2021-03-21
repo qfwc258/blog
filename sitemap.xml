@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gitee.com/xlking/blog/categories/</loc>
+    <loc>https://xlking.gitee.io/blog/categories/</loc>
   </url><url>
-    <loc>https://gitee.com/xlking/blog/</loc>
+    <loc>https://xlking.gitee.io/blog/</loc>
   </url><url>
-    <loc>https://gitee.com/xlking/blog/tags/</loc>
+    <loc>https://xlking.gitee.io/blog/tags/</loc>
   </url>
 </urlset>
