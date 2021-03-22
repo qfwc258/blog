@@ -1,0 +1,15 @@
+---
+title: "测试"
+date: 2021-03-22T13:34:04+08:00
+draft: false
+---
+
+#Hyde的第一个优点是一目了然的：简约。
+
+两列，左窄右宽，左黑右白，左边信息、右边内容。 这种设计，有一种极简的倾向，却完美地利用了屏幕。 其作者，无疑具有大师水准。
+
+在一个空的Hugo项目中，选中Hyde主题，就立刻可以展示出一个首页。 然而，其中的很多信息，是需要修改的。 比如，描述部分，就有些不应景。
+
+An elegant open source and mobile first theme for hugo made by @mdo Originally made for Jekyll.
+
+此外，最大的麻烦，莫过于首页的设计了。 Hyde的首页会把所有页面的内容都完整地展示出来！
